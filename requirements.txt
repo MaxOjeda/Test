@@ -1,0 +1,7 @@
+git+ssh://git@github.com/imfd/connect_GCP.git
+vega_datasets
+datetime
+pandas
+altair
+numpy
+emoji
